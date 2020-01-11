@@ -1,2 +1,0 @@
-# AdvReactPrac
-Created with CodeSandbox
